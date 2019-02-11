@@ -13,7 +13,8 @@
   * Deleting containers (`docker rm CONTAINER`) automatically (`run --rm`)
   * Create a simple `Dockerfile`
 * How do I set up a dev environment?
-  * Bind volumes
+  * Bind volume mappings
   * docker-compose to simplify using Docker
 * Where should I go to learn more?
-
+  * [Getting started with Docker](https://docs.docker.com/get-started/)
+  * [The repo for this talk](https://github.com/don-smith/jr-dev-docker)
