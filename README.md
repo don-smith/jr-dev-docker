@@ -1,6 +1,7 @@
 # Junior Dev Meetup: Docker
 
 * What is Docker and why should I care about it?
+  * Historically: dev !== staging !== production
   * Software, all of its dependencies and everything it needs to run
   * Shares kernel with _host_ operating system (faster to start)
 * What are some of the Docker basics?
