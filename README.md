@@ -15,7 +15,7 @@
   * Create a simple `Dockerfile`
 * How do I set up a dev environment?
   * Bind volume mappings
-  * docker-compose to simplify using Docker
+  * docker-compose to simplify using Docker (`docker-compose up`)
 * Where should I go to learn more?
   * [Getting started with Docker](https://docs.docker.com/get-started/)
   * [The repo for this talk](https://github.com/don-smith/jr-dev-docker)
